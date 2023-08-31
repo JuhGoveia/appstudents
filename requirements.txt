@@ -1,5 +1,5 @@
 seaborn
 pandas
 numpy
-matplotlib
-scikit
+streamlit
+matplotlib.pyplot
